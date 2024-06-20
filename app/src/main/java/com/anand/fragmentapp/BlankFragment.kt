@@ -60,8 +60,8 @@ class BlankFragment : Fragment(), ActivityInterface {
             }
     }
 
-    override fun changeFragmentText(fetname:String) {
-        binding?.btnChangeActivityText?.text = "Activity from Fragment ${fetname}"
+    override fun changeFragmentText(fEtName:String) {
+        binding?.btnChangeActivityText?.text = "Activity from Fragment ${fEtName}"
     }
 
 }
