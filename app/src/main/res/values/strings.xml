@@ -3,4 +3,6 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="Change_Activity_text">Change Activity Text</string>
     <string name="ChangeFragmentText">Change Fragment Text</string>
+    <string name="Date">DATE</string>
+    <string name="time">TIME</string>
 </resources>
